@@ -1,12 +1,13 @@
-## Hi there 👋
+Hi there 👋
+Welcome to New Horizon Code — a technology holding company fostering innovation through our family of SaaS platforms and agencies.
 
-<!--
+We design, build, and maintain scalable cloud-based software for teams working in complex environments, including the NDIS and child safety sectors.
 
-**Here are some ideas to get you started:**
+🚀 Featured Platforms
+Diversity Sync’d – Workflow tools for teams in NDIS and Child Protection
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Syrup – A product team for hire, helping startups go from idea to execution
+
+📚 Documentation & Support
+For API docs, guides, and support: newhorizoncode.io
+For support tickets: support.newhorizoncode.io
