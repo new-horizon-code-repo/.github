@@ -1,13 +1,3 @@
-Hi there 👋
-Welcome to New Horizon Code — a technology holding company fostering innovation through our family of SaaS platforms and agencies.
+New Horizon Code is a leading technology company specializing in full SaaS (Software as a Service) development. We build and maintain our own SaaS products, showcasing our expertise in cutting-edge technology and our commitment to innovation. Leveraging this proven experience, we offer comprehensive SaaS development services, creating custom applications and scalable solutions tailored to your business needs.
 
-We design, build, and maintain scalable cloud-based software for teams working in complex environments, including the NDIS and child safety sectors.
-
-🚀 Featured Platforms
-Diversity Sync’d – Workflow tools for teams in NDIS and Child Protection
-
-Syrup – A product team for hire, helping startups go from idea to execution
-
-📚 Documentation & Support
-For API docs, guides, and support: newhorizoncode.io
-For support tickets: support.newhorizoncode.io
+Our proven track record demonstrates our ability to enhance efficiency and productivity with high-quality software solutions. Whether you're an entrepreneur looking to bring a new idea to life or an established business aiming to innovate, we have the skills and experience to deliver exceptional results.
